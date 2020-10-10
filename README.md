@@ -3,8 +3,8 @@ Node application to display a custom greeting when a user visits the web site.
 
 # Running the application
 - Clone repo to your local.
-- Open command prompt/terminal into the cloned folder.
-- Run the below commnd.
+- Open command prompt/terminal at the above cloned folder location.
+- Run the below command.
 ```sh
 node index.js
 ```
